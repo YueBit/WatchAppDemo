@@ -1,0 +1,3 @@
+include ':heytap-widget-support-release-v1.1.9'
+include ':app'
+rootProject.name = "VcatsMonitorInWatch"

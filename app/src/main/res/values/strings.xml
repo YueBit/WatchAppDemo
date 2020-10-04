@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VcatsKanban</string>
+    <string name="tester1_vin1">VCATSChangAniFlex01 - LS123456789012345</string>
+    <string name="tester1_operatorMessage"> 正在匹配钥匙 </string>
+</resources>
